@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800013974641",
+    "project_id": "reed-5350c",
+    "storage_bucket": "reed-5350c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800013974641:android:a0b073482b6c8f93be2fd0",
+        "android_client_info": {
+          "package_name": "com.example.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800013974641-6hacebs66lria75jd18g5m697kpok16l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuVnjjGScVpGvWFHcQgeGlgK7iPeUBeiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800013974641-6hacebs66lria75jd18g5m697kpok16l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
