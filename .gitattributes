@@ -1,2 +1,5 @@
 *.html linguist-detectable=false
-*.cpp linguist-detectable=false
+*.c++ linguist-detectable=false
+*.Cmake linguist-detectable=false
+*.java linguist-detectable=false
+*.swift linguist-detectable=false
