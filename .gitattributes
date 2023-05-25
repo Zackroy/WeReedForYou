@@ -9,6 +9,7 @@
 *.cpp linguist-detectable=false
 CMakeLists.txt linguist-vendored
 *.cpp linguist-vendored
+*.c linguist-vendored
 
 
 
