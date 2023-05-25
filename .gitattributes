@@ -5,4 +5,5 @@
 *.swift linguist-detectable=false
 *.C linguist-detectable=false
 *.Other linguist-detectable=false
+*.Cmake linguist-detectable=false
 
