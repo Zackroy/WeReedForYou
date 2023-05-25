@@ -1,5 +1,5 @@
 *.html linguist-detectable=false
-*.C++ linguist-detectable=false
+*.Cpp linguist-detectable=false
 *.CMake linguist-detectable=false
 *.java linguist-detectable=false
 *.swift linguist-detectable=false
