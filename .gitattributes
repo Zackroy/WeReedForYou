@@ -5,7 +5,7 @@
 *.swift linguist-detectable=false
 *.c linguist-detectable=false
 *.Other linguist-detectable=false
-*.Cmake linguist-detectable=false
+*.cmake linguist-detectable=false
 *.cpp linguist-detectable=false
 
 
